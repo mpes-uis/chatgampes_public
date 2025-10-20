@@ -1,0 +1,5 @@
+SELECT TOP (1000) [id]
+      ,[eval]
+      ,[info]
+      ,[data_avaliacao]
+  FROM [IA].[dbo].[rag_gampes_eval]
